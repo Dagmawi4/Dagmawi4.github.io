@@ -1,0 +1,38 @@
+/* src/components/Experience/ExperienceCard.css */
+
+/* Card container & hover lift */
+.project-card-view {
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 12px;
+  background: rgba(0, 0, 0, 0.15);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+.project-card-view:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.18);
+}
+
+/* Bullets: outside, left-aligned, consistent indent */
+.experience-bullets {
+  list-style-type: disc;
+  list-style-position: outside;
+  margin: 0 0 1rem 1.25rem;
+  padding: 0;
+  text-align: left;
+  line-height: 1.45;
+}
+
+/* Tech badges: compact pills */
+.tech-badge {
+  font-size: 0.7rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 8px;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+  white-space: nowrap;
+}
+
+/* Allow date/location spans to wrap properly */
+.text-muted.small span {
+  white-space: normal;
+}

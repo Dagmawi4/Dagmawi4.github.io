@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9e191c9a.css",
+    "main.js": "/static/js/main.fe1e0e60.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/RAL.png": "/static/media/RAL.99e0ae02f26ecef0878d.png",
+    "static/media/About.png": "/static/media/About.1b82167264fac04114f3.png",
+    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/Microstrip.png": "/static/media/Microstrip.872e97d933d4eb417b86.png",
+    "static/media/Capacitor.png": "/static/media/Capacitor.d98079313e7c7c3e2110.png",
+    "static/media/Smart.jpg": "/static/media/Smart.4db8ab71c2673ff02047.jpg",
+    "static/media/Dagmawi_Abera_Resume.pdf": "/static/media/Dagmawi_Abera_Resume.08c53def242a4cd26c93.pdf",
+    "static/media/Dagi-logo.jpg": "/static/media/Dagi-logo.ef8b40571955fb3fb3f6.jpg",
+    "static/media/Dagi-Avatar.jpg": "/static/media/Dagi-Avatar.04140da6b6e4e9cf85b7.jpg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Wanders.jpg": "/static/media/Wanders.54e420f0a322d64dea6f.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.9e191c9a.css.map": "/static/css/main.9e191c9a.css.map",
+    "main.fe1e0e60.js.map": "/static/js/main.fe1e0e60.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e191c9a.css",
+    "static/js/main.fe1e0e60.js"
+  ]
+}
