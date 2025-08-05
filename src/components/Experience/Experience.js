@@ -6,6 +6,20 @@ import ExperienceCard from "./ExperienceCard";
 
 const EXPERIENCES = [
   {
+    role: "Systems Application Engineer & PM Intern",
+    company: "Johnson & Johnson",
+    companyLink: "https://www.jnj.com/",
+    period: "Jun 2025 – Aug 2025",
+    location: "Raritan, NJ · On-site",
+    bullets: [
+      "Supported migration of SAP systems to AWS, optimizing cloud infrastructure and data flows.",
+      "Built Power BI dashboards to visualize global system updates and user access metrics.",
+      "Collaborated across engineering, product, and IT teams to drive digital transformation.",
+      "Worked in agile sprints, managing cross-functional deliverables using Jira and ServiceNow."
+    ],
+    tech: ["SAP", "AWS", "Power BI", "Jira", "ServiceNow"],
+  },
+  {
     role: "Electrical Controls Engineer",
     company: "Taylor Corporation – Contract",
     companyLink: "https://www.taylor.com/",
