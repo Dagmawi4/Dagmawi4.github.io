@@ -3,11 +3,10 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import Capacitor from "../../Assets/Projects/Capacitor.png";
-import emotion from "../../Assets/Projects/emotion.png";
 import Microstrip from "../../Assets/Projects/Microstrip.png";
 import RAL from "../../Assets/Projects/RAL.png";
-import suicide from "../../Assets/Projects/suicide.png";
 import Smart from "../../Assets/Projects/Smart.jpg";
+import Vayro from "../../Assets/Projects/Vayro Logo.png"
 
 function Projects() {
   return (
@@ -21,6 +20,16 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Vayro}
+              isBlog={false}
+              title="Vayro"
+              description="Vayro is a unified travel planner that replaces tabs, blogs, and guesswork. Start with your destination airport and address, Vayro surfaces Uber/Lyft pickup spots, shuttle options, or rentals with live estimates. Then set your mood, dates, and food preferences, and get a route-optimized itinerary with real-time hours, pricing, top dishes, activities, and direct booking links. It respects meetings and time blocks, minimizes transit time, and keeps trips editable from a simple dashboard."
+              ghLink="https://github.com/Dagmawi4/Vayro"
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={RAL}

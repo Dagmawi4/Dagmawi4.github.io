@@ -5,17 +5,11 @@ import {
   DiJavascript1,
   DiReact,
   DiNodejs,
-  DiMongodb,
   DiPython,
   DiGit,
-  DiJava,
 } from "react-icons/di";
 import {
-  SiRedis,
   SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
-  SiPostgresql,
   SiSap,
   SiC,
   SiHtml5,
@@ -23,8 +17,9 @@ import {
   SiGithub,
   SiAnsys,
   SiDynamics365,
+  SiTypescript
 } from "react-icons/si";
-import { TbAssembly, TbBrandGolang } from "react-icons/tb";
+import { TbAssembly } from "react-icons/tb";
 
 function Techstack() {
   return (
@@ -67,6 +62,15 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiDynamics365 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiTypescript />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiFirebase />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiReact />
       </Col>
     </Row>
   );

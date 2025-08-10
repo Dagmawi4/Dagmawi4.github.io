@@ -63,6 +63,19 @@ const EXPERIENCES = [
     tech: ["Helpdesk", "Windows Admin", "Networking", "Cybersecurity Awareness"],
   },
   {
+    role: "Nspire – Software Engineering Corp Intern",
+    company: "Nordstrom",
+    companyLink: "https://www.nordstrom.com/",
+    period: "Aug 2023",
+    location: "Seattle, WA · On-site",
+    bullets: [
+      "Enhanced search engine efficiency; enabled precise filtering for niche items.",
+      "Collaborated with engineers/data scientists; integrated AI-driven filtering.",
+      "Solved programming challenges in a fast-paced environment.",
+    ],
+    tech: ["Python", "AI/ML", "Search"],
+  },
+  {
     role: "Qualcomm Student Accelerator",
     company: "Qualcomm",
     companyLink: "https://www.qualcomm.com/",
@@ -126,19 +139,6 @@ const EXPERIENCES = [
       "Prepared for emergencies with CPR and AED certifications.",
     ],
     tech: ["Safety", "Customer Service"],
-  },
-  {
-    role: "Nspire – Software Engineering Corp Intern",
-    company: "Nordstrom",
-    companyLink: "https://www.nordstrom.com/",
-    period: "Aug 2023",
-    location: "Seattle, WA · On-site",
-    bullets: [
-      "Enhanced search engine efficiency; enabled precise filtering for niche items.",
-      "Collaborated with engineers/data scientists; integrated AI-driven filtering.",
-      "Solved programming challenges in a fast-paced environment.",
-    ],
-    tech: ["Python", "AI/ML", "Search"],
   },
   {
     role: "Delegate – UNICEF Ethiopia",
