@@ -1,13 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.9e191c9a.css",
-    "main.js": "/static/js/main.77d5bd1b.js",
+    "main.js": "/static/js/main.009b7446.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/RAL.png": "/static/media/RAL.99e0ae02f26ecef0878d.png",
     "static/media/About.png": "/static/media/About.1b82167264fac04114f3.png",
-    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/Vayro Logo.png": "/static/media/Vayro Logo.baf757f9d5a0bff96df4.png",
     "static/media/Microstrip.png": "/static/media/Microstrip.872e97d933d4eb417b86.png",
     "static/media/Capacitor.png": "/static/media/Capacitor.d98079313e7c7c3e2110.png",
     "static/media/Smart.jpg": "/static/media/Smart.4db8ab71c2673ff02047.jpg",
@@ -19,12 +18,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.9e191c9a.css.map": "/static/css/main.9e191c9a.css.map",
-    "main.77d5bd1b.js.map": "/static/js/main.77d5bd1b.js.map",
+    "main.009b7446.js.map": "/static/js/main.009b7446.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e191c9a.css",
-    "static/js/main.77d5bd1b.js"
+    "static/js/main.009b7446.js"
   ]
 }
