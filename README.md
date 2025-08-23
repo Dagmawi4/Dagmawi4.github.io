@@ -9,7 +9,6 @@ This is my personal portfolio website where I showcase my engineering background
 - React.js
 - React-Bootstrap
 - CSS3
-- Vercel (Deployment)
 - Visual Studio Code
 
 ## 💡 Inspiration
